@@ -6,7 +6,6 @@ This project is a MySQL relational database system for managing a bookstore's in
 - `schema.sql` – Create table scripts
 - `sample_data.sql` – Sample INSERT data
 - `test_queries.sql` – Useful SELECT queries for testing
-- `users_and_roles.sql` – User access control setup
 - `erd.png` – Entity Relationship Diagram
 
 ## 🛠️ Tools Used
